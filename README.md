@@ -4,13 +4,13 @@
 
 Try joining again.
 
+**Failed to login: Bad login**
+
+Check the Mojang Authentication server status or edit server.properties on line 19: `online-mode=false` then restart the server.
+
 **Can't join the server after restarting the server**
 
 try restarting the game client.
-
-**Failed to login: Bad login**
-
-Check the Mojang Authentication server status or edit server.properties on line 19: `online-mode=false`
 
 Files source:
 
